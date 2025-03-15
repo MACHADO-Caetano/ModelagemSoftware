@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Beach beach = new Beach("Copacabana", "Rio de Janeiro", 37, true)
+
+
+beach.showInformations();
