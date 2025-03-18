@@ -1,0 +1,5 @@
+/home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/obj/Debug/net8.0/Beach.GeneratedMSBuildEditorConfig.editorconfig
+/home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/obj/Debug/net8.0/Beach.AssemblyInfoInputs.cache
+/home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/obj/Debug/net8.0/Beach.AssemblyInfo.cs
+/home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/obj/Debug/net8.0/Beach.csproj.CoreCompileInputs.cache
+/home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/obj/Debug/net8.0/Beach.sourcelink.json
