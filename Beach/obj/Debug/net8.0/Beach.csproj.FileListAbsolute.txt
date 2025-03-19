@@ -3,3 +3,13 @@
 /home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/obj/Debug/net8.0/Beach.AssemblyInfo.cs
 /home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/obj/Debug/net8.0/Beach.csproj.CoreCompileInputs.cache
 /home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/obj/Debug/net8.0/Beach.sourcelink.json
+/home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/bin/Debug/net8.0/Beach
+/home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/bin/Debug/net8.0/Beach.deps.json
+/home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/bin/Debug/net8.0/Beach.runtimeconfig.json
+/home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/bin/Debug/net8.0/Beach.dll
+/home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/bin/Debug/net8.0/Beach.pdb
+/home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/obj/Debug/net8.0/Beach.dll
+/home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/obj/Debug/net8.0/refint/Beach.dll
+/home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/obj/Debug/net8.0/Beach.pdb
+/home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/obj/Debug/net8.0/Beach.genruntimeconfig.cache
+/home/caethas/programs/modelagemSoftware/ModelagemSoftware/Beach/obj/Debug/net8.0/ref/Beach.dll

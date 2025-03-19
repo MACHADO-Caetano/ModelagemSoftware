@@ -1,9 +1,7 @@
 public class Beach{
-   public string Name:
-
+    public string Name;
 
    public string Location;
-
 
    public int Temperature;
 
@@ -13,15 +11,15 @@ public class Beach{
 
    public Beach(string name, string location, int temperature, bool hasKiosk)
    {
-       Name = name
-       Location = location
-       Temperature = temperature
+       Name = name;
+       Location = location;
+       Temperature = temperature;
        if(hasKiosk){
-           HasKiosk = hasKiosk
+           HasKiosk = hasKiosk;
            System.Console.WriteLine("Possui quiosque");
        }
        else{
-           HasKiosk = hasKiosk
+           HasKiosk = hasKiosk;
            System.Console.WriteLine("Não possui quiosque");
        }
       
