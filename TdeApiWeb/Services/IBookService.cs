@@ -5,4 +5,6 @@ public interface IBookService
     Book add(Book book);
 
     Book? delete(int id);
+
+    Book? update(int id, Book book);
 }

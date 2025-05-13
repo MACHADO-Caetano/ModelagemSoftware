@@ -14,11 +14,20 @@ public class BookService : IBookService
         return book;
     }
 
-    Book IBookService.delete(int id)
+    Book? IBookService.delete(int id)
     {
         var book = GetById(id);
         if (book is null) return null;
         _books.Remove(book);
         return book;
+    }
+
+    Book? IBookService.update(int id, Book book)
+    {
+        var updatedBook = GetById(id);
+        if (updatedBook is null) return null;
+        updatedBook.Title = book.Title;
+        updatedBook.AuthorId = book.AuthorId;
+        return updatedBook;
     }
 }

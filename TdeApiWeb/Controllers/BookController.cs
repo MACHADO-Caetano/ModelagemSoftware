@@ -36,4 +36,11 @@ public class BookController : ControllerBase
         _bookService.delete(id);
         return NoContent();
     }
+
+    [HttpPut("{id}")]
+    public ActionResult<Book> Put(int id, Book book)
+    {
+        var updatedBook = _bookService.update(id, book);
+        return updatedBook is null ? NotFound() : Ok(updatedBook);
+    }
 }
