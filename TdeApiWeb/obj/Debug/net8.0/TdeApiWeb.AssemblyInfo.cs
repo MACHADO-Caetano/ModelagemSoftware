@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TdeApiWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24a8cc9f32e230802a078d8a1d1aa609e8172b35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+735419df292a00d07f8aa6195e68942a8201a262")]
 [assembly: System.Reflection.AssemblyProductAttribute("TdeApiWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TdeApiWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
