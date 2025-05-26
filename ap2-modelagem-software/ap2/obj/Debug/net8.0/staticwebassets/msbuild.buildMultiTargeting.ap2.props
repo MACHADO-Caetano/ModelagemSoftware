@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ap2.props" />
+</Project>
